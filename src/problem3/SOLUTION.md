@@ -1,4 +1,3 @@
-Provide your solution here:
 The scenarios which cause NGINX load balancer VM  consistently running at 99% memory usage would be as below:
 
 1. High traffics comming to the NGINX load balancer

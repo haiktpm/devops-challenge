@@ -1,4 +1,3 @@
-Provide your solution here:
 Architecture diagram
 ![alt text](image.png)
 Architecture elaboration
